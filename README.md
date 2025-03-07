@@ -1,6 +1,6 @@
 # JavaWebAppp
 
-
+```
 root@test:~/JavaWebAppp# history
     1  ls
     2  mvn
@@ -46,6 +46,7 @@ nohup java -jar /root/JavaWebAppp/target/javaazurewebapp-0.0.1-SNAPSHOT.jar --se
 This command will run the application in the background and you can safely log out without stopping the application. The output will be written to a file called nohup.out in the current directory.
 
 
+```
 Note : make sure open the port in firewall ….
 
 
